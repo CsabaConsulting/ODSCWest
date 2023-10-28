@@ -1,0 +1,10 @@
+"Ambient space music, no beat, uplifting"
+
+"Ambient tune, no beat, uplifting"
+
+"Ambient, beatless, no beat, chillout"
+
+"Slow, mellow, ambient, beatless, no beat, chillout"
+https://replicate.com/meta/musicgen?prediction=4vgcd5dbzws5uucr4k7m4ijwd4
+https://replicate.com/aussielabs/musicgen?prediction=qp26s6tby35534xb2pu5cu65m4
+
