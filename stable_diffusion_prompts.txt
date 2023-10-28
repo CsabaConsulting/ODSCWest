@@ -1,0 +1,20 @@
+"one rubber ducky toy (red beak, yellow head, neck, body and tail) in the center, black background"
+size bellow 640 -> very very whacky!
+640 and 768 is 33% OK
+25% duck is half off screen!
+25% inverted colors (red body and yellow beak) or some other serious dismorphia
+or multiple ducks inspite of the explicit instruction to have only one
+ 50 steps -> 75 steps, still whacky
+
+"one shark toy in the center, nothing else, black background"
+
+# Dall-E 2
+https://api.openai.com/v1/images/generations
+{
+  "created": 1698474780,
+  "data": [
+    {
+      "url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mrxnAgaiysJ9WO4bQtgZvqrI/user-ytlN5NyaAPb82kjvJLrC4Q8C/img-oZ0RjF8EwployuxQusmvdWqH.png?st=2023-10-28T05:33:00Z&se=2023-10-28T07:33:00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-27T23:16:43Z&ske=2023-10-28T23:16:43Z&sks=b&skv=2021-08-06&sig=LtLaidlGLVS/3+EtASG4twpAgK4nzQYf+rbAZeFtayE="
+    }
+  ]
+}
