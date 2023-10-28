@@ -1,0 +1,8 @@
+one rubber ducky toy (red beak, yellow head, neck, body and tail) in the center, black background
+size bellow 640 -> very very whacky!
+640 and 768 is 33% OK
+25% duck is half off screen!
+25% inverted colors (red body and yellow beak) or some other serious dismorphia
+or multiple ducks inspite of the explicit instruction to have only one
+ 50 steps -> 70 steps, still whacky
+
